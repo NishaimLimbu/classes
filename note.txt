@@ -1,0 +1,39 @@
+#"for the condition:"
+if conditon: ("")
+elif conditon: ("")
+else: ("")
+
+for loop {
+for _ range (10)
+#it will run up to 10 numbers
+
+for i in range (i):
+print (i)
+#it will start with zero
+
+for i in range (1,6):
+print (i)
+#it will star with 1 and end within 5
+
+for i in range (0,10,2):
+print (i)
+#it will give output 0 2 4 6 8
+
+for i in range (5,0,-1):
+print (i)
+#for reverse output
+}
+
+while loop {
+while n>0:
+print (n)
+"conditon" n=n-1
+#run until condtion stops to match
+}
+
+break 
+#stop the program while it will match the condition
+continue
+#it will skip the condtion matched value
+pass
+#it will stop / hold the program to run to skip error
