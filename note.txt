@@ -37,3 +37,7 @@ continue
 #it will skip the condtion matched value
 pass
 #it will stop / hold the program to run to skip error
+and 
+#for multiple condtion to check
+or 
+#for one condition ot be correct
