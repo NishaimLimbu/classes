@@ -9,6 +9,6 @@ while a<n:
         break
     else:
         print ("tyr again\n")
-        a+=1
-if a==n!=7:
+        a=a+1
+if a==n and !=7:
     print ("The correct no was 7")
