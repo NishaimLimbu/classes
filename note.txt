@@ -41,3 +41,6 @@ and
 #for multiple condtion to check
 or 
 #for one condition ot be correct
+
+def "function name()":
+#it is used to make function. And call it by function name.
