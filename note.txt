@@ -44,3 +44,16 @@ or
 
 def "function name()":
 #it is used to make function. And call it by function name.
+
+variable = lambda abc : "expression"
+add =lambda a,b: a+b
+print(add (2,6) )
+#it is used for short calculations
+
+Modules
+import "Name of file"
+print ("name of file"."function name"("input"))
+print (my_module.great ("Alice")
+#it will used to excess different page of programed by calling name of file by using import.
+
+
